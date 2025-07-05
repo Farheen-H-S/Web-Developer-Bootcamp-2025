@@ -16,3 +16,5 @@ This repository serves as a record of my progress and implementations of code ex
 * **Code Exercise 4:** About heading elements & HTML entity codes
 * **Code Exercise 5:** About table elements (table, thead, tr, th, tbody, td)
 * **Code Exercise 6:** About form element, various input types, labels, buttons
+* **Code Exercise 7:** About CSS (Properties: color, background color) [HTML file already provided]
+* **Code Exercise 8:** About CSS (Properties: related to fonts, related to text: align, transform, decoration, spacing) [HTML file already provided]

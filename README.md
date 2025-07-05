@@ -14,3 +14,4 @@ This repository serves as a record of my progress and implementations of code ex
 * **Code Exercise 2:** About ordered and unordered lists
 * **Code Exercise 3:** About HTML Images and Anchor Elements
 * **Code Exercise 4:** About heading elements & HTML entity codes
+* **Code Exercise 5:** Anout table elements (table, thead, tr, th, tbody, td)

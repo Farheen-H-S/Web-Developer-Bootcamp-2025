@@ -19,5 +19,6 @@ This repository serves as a record of my progress and implementations of code ex
 * **Code Exercise 7:** About CSS (Properties: color, background color) [HTML file already provided]
 * **Code Exercise 8:** About CSS (Properties: related to fonts, related to text: align, transform, decoration, spacing) [HTML file already provided]
 * **Code Exercise 9:** About CSS Selectors (element, id, class) [HTML file already provided]
-* **Code Exercise 10:** About Descendant Selectors
-* **Code Exercise 11:** About CSS Pseudo Classes (nth-of-type)
+* **Code Exercise 10:** About Descendant Selectors [HTML file already provided]
+* **Code Exercise 11:** About CSS Pseudo Classes (nth-of-type) [HTML file already provided]
+* **Code Exercise 12:** About Box Model [HTML file already provided]

@@ -1,5 +1,5 @@
 # Web-Developer-Bootcamp-2025
-This repository contains my implementations of code exercises from Colt Steele's Web Developer Bootcamp 2025 on Udemy
+This repository contains my implementations of code exercises & code alongs from Colt Steele's Web Developer Bootcamp 2025 on Udemy
 
 ## Course Details
 * Course: Web Developer Bootcamp 2025
@@ -7,7 +7,7 @@ This repository contains my implementations of code exercises from Colt Steele's
 * Platform: Udemy
 
 ## Purpose
-This repository serves as a record of my progress and implementations of code exercises throughout the course
+This repository serves as a record of my progress throughout the course
 
 ## Code Exercises:
 * **Code Exercise 1:** About heading and paragraph elements
@@ -22,3 +22,11 @@ This repository serves as a record of my progress and implementations of code ex
 * **Code Exercise 10:** About Descendant Selectors [HTML file already provided]
 * **Code Exercise 11:** About CSS Pseudo Classes (nth-of-type) [HTML file already provided]
 * **Code Exercise 12:** About Box Model [HTML file already provided]
+
+## Code Alongs:
+* **Marathon Registration Form:** Registration form using various input types and validation (No CSS)
+* **Button Hover Effect:**
+* **Flexbox:**
+* **PhotoSite:**
+* **MediaQueries:**
+* **PriceTable:**

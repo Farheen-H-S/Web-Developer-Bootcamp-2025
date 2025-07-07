@@ -22,6 +22,7 @@ This repository serves as a record of my progress throughout the course
 * **Code Exercise 10:** About Descendant Selectors [HTML file already provided]
 * **Code Exercise 11:** About CSS Pseudo Classes (nth-of-type) [HTML file already provided]
 * **Code Exercise 12:** About Box Model [HTML file already provided]
+* **Code Exercise 13:** About Bootstrap classes [Starter markup already provided]
 
 ## Code Alongs:
 * **Marathon Registration Form:** Registration form using various input types and validation (No CSS)

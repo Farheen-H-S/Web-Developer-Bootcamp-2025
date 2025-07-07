@@ -25,8 +25,8 @@ This repository serves as a record of my progress throughout the course
 
 ## Code Alongs:
 * **Marathon Registration Form:** Registration form using various input types and validation (No CSS)
-* **Button Hover Effect:**
-* **Flexbox:**
-* **PhotoSite:**
-* **MediaQueries:**
-* **PriceTable:**
+* **Button Hover Effect:** Using transitions & transformation
+* **Flexbox:** Practice of various flex properties
+* **PhotoSite:** Simple photographer's portfolio home page 
+* **MediaQueries:** Practice of media queries
+* **PriceTable:** Using flex & media query
